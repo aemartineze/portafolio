@@ -11,11 +11,11 @@
 [Análisis de las comunidades de Twitter con respecto al 25 de noviembre “Día Internacional de la Eliminación de la Violencia contra la mujer” ](https://openaccess.uoc.edu/handle/10609/148755)
 
 ### Análisis de los niveles de NO2 en Madrid
-([Presentación DemoDay(https://www.youtube.com/live/6Gz9yxC5o6A?si=nHjZMl1waa1q7fps))
+[Presentación DemoDay
+](https://www.youtube.com/live/6Gz9yxC5o6A?si=nHjZMl1waa1q7fps )
 
 ### Embarazo infantil y adolescente en el Ecuador
-[Análisis en Tableau] 
-(https://public.tableau.com/app/profile/andrea.martinez6335/viz/EmbarazoinfantilyadolescenteenelEcuador/Nacional)
+https://public.tableau.com/app/profile/andrea.martinez6335/viz/EmbarazoinfantilyadolescenteenelEcuador/Nacional2 
 
 ### Impacto del Covid en Ecuador
 [Flourish] 
