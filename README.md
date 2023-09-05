@@ -15,15 +15,14 @@
 ](https://www.youtube.com/live/6Gz9yxC5o6A?si=nHjZMl1waa1q7fps )
 
 ### Embarazo infantil y adolescente en el Ecuador
-https://public.tableau.com/app/profile/andrea.martinez6335/viz/EmbarazoinfantilyadolescenteenelEcuador/Nacional2 
+[Análisis en Tableau
+](https://public.tableau.com/app/profile/andrea.martinez6335/viz/EmbarazoinfantilyadolescenteenelEcuador/Nacional2)
 
 ### Impacto del Covid en Ecuador
-[Flourish] 
-(https://public.flourish.studio/story/1550365/)
+https://public.flourish.studio/story/1550365/
 
 ### Cartograma del embarazo adolecente en Sudamérica
-[Lenguaje R] 
-(https://aemartineze.github.io/cartograma/)
+[Análisis de Datos en Lenguaje R](https://aemartineze.github.io/cartograma/)
 
 ## Experiencia
 **Analista de Control y Seguimiento  @ CNT EP (_Sep 2010 - Presente_)**
