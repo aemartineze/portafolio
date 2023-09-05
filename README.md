@@ -3,8 +3,8 @@
 #### Conocimientos Técnicos: Python, R, SQL, Qliksense, Tableau
 
 ## Educación
-- Master en Ciencia de Datos | Universidad Oberta de Catalunya | Barcelona-España (_Feb 2023_)								       		
-- Ingeniera en Telecomunicaciones	| Espe |  (_Abr 2003_)	 		        		
+- Master en Ciencia de Datos       | Universidad Oberta de Catalunya          | Barcelona-España (_Feb 2023_)								       		
+- Ingeniera en Telecomunicaciones	 | Espe - Escuela Politécnica del Ejército  | Quito - Ecuador (_Abr 2003_)	 		        		
 
 ## Experiencia
 **Analista de Control y Seguimiento  @ CNT EP (_Sep 2010 - Presente_)**
@@ -29,9 +29,12 @@
 **Analista Contact Center @ CNT EP (_Jul 2003 - Jun 2004_)**
 - Soporte técnico telefónico a clientes de internet y transmisión de datos.
 - Monitoreo de alarmas y resolución de problemas.
--   
+  
 ## Proyectos
 ### Trabajo de Fin de Master
-[Análisis de las comunidades de Twitter con respecto al 25 de noviembre “Día Internacional de la Eliminación de la Violencia contra la mujer” ]([https://www.mdpi.com/1424-8220/22/8/3048](https://openaccess.uoc.edu/handle/10609/148755))
+[Análisis de las comunidades de Twitter con respecto al 25 de noviembre “Día Internacional de la Eliminación de la Violencia contra la mujer” ]([https://openaccess.uoc.edu/handle/10609/148755])
+
+### Análisis de los niveles de NO2 en Madrid
+[DemoDay]([[https://www.mdpi.com/1424-8220/22/8/3048]([https://openaccess.uoc.edu/handle/10609/148755)](https://www.youtube.com/live/6Gz9yxC5o6A?si=nHjZMl1waa1q7fps )https://www.youtube.com/live/6Gz9yxC5o6A?si=nHjZMl1waa1q7fps ](https://www.youtube.com/live/6Gz9yxC5o6A?si=nHjZMl1waa1q7fps )https://www.youtube.com/live/6Gz9yxC5o6A?si=nHjZMl1waa1q7fps )
 
 
