@@ -32,9 +32,21 @@
   
 ## Proyectos
 ### Trabajo de Fin de Master
-[Análisis de las comunidades de Twitter con respecto al 25 de noviembre “Día Internacional de la Eliminación de la Violencia contra la mujer” ]([https://openaccess.uoc.edu/handle/10609/148755])
+[Análisis de las comunidades de Twitter con respecto al 25 de noviembre “Día Internacional de la Eliminación de la Violencia contra la mujer” ](https://openaccess.uoc.edu/handle/10609/148755)
 
 ### Análisis de los niveles de NO2 en Madrid
-[DemoDay]([[https://www.mdpi.com/1424-8220/22/8/3048]([https://openaccess.uoc.edu/handle/10609/148755)](https://www.youtube.com/live/6Gz9yxC5o6A?si=nHjZMl1waa1q7fps )https://www.youtube.com/live/6Gz9yxC5o6A?si=nHjZMl1waa1q7fps ](https://www.youtube.com/live/6Gz9yxC5o6A?si=nHjZMl1waa1q7fps )https://www.youtube.com/live/6Gz9yxC5o6A?si=nHjZMl1waa1q7fps )
+[Presentación DemoDay](https://www.mdpi.com/1424-8220/22/8/3048](https://www.youtube.com/live/6Gz9yxC5o6A?si=nHjZMl1waa1q7fps)
+
+### Embarazo infantil y adolescente en el Ecuador
+[Análisis en Tableau] (https://public.tableau.com/app/profile/andrea.martinez6335/viz/EmbarazoinfantilyadolescenteenelEcuador/Nacional)
+
+### Impacto del Covid en Ecuador
+[Flourish] (https://public.flourish.studio/story/1550365/)
+
+### Cartograma del embarazo adolecente en Sudamérica
+[Lenguaje R] (https://aemartineze.github.io/cartograma/)
+
+
+
 
 
