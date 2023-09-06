@@ -3,8 +3,8 @@
 #### Conocimientos Técnicos: Python, R, SQL, Qliksense, Tableau
 
 ## Educación
--  Master en Ciencia de Datos       | Universidad Oberta de Catalunya  (_Feb 2023_)								       		
--  Ingeniera en Telecomunicaciones	| Espe - Escuela Politécnica del Ejército  (_Abr 2003_)	 		        		
+-  Master en Ciencia de Datos     | Universidad Oberta de Catalunya  (_Feb 2023_)								       		
+-  Ingeniera en Telecomunicaciones| Espe - Escuela Politécnica del Ejército  (_Abr 2003_)	 		        		
 
 ## Proyectos
 ### Trabajo de Fin de Master
@@ -19,7 +19,7 @@
 ](https://public.tableau.com/app/profile/andrea.martinez6335/viz/EmbarazoinfantilyadolescenteenelEcuador/Nacional2)
 
 ### Impacto del Covid en Ecuador
-https://public.flourish.studio/story/1550365/
+[Infografía en Flourish](https://public.flourish.studio/story/1550365/)
 
 ### Cartograma del embarazo adolecente en Sudamérica
 [Análisis de Datos en Lenguaje R](https://aemartineze.github.io/cartograma/)
