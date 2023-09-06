@@ -3,8 +3,8 @@
 #### Conocimientos Técnicos: Python, R, SQL, Qliksense, Tableau
 
 ## Educación
--  Master en Ciencia de Datos     | Universidad Oberta de Catalunya  (_Feb 2023_)								       		
--  Ingeniera en Telecomunicaciones| Espe - Escuela Politécnica del Ejército  (_Abr 2003_)	 		        		
+-  Master en Ciencia de Datos     | Universidad Oberta de Catalunya  |_Feb 2023_								       		
+-  Ingeniera en Telecomunicaciones| Espe - Escuela Politécnica del Ejército  |_Abr 2003_	 		        		
 
 ## Proyectos
 ### Trabajo de Fin de Master
