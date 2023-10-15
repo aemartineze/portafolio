@@ -28,9 +28,9 @@
 **Analista de Control y Seguimiento  @ CNT EP (_Sep 2010 - Presente_)**
 - Desarrollo de proyectos Análisis de Datos para verificar el cumplimiento del Plan Estratégico Empresarial en la perspectiva del negocio y técnica.
 - Desarrollo e implementación de Metodología de Gobierno de la Información.
-- Coordinación de Rendición de Cuentas de la corporación.
-- Manejo y desarrollo de tableros de análisis de datos (Herramientas Qlikview y Qliksense).
+- Manejo y desarrollo de tableros de análisis de datos (Qlikview y Qliksense).
 - Seguimiento y reporte de presupuesto del área
+- Coordinación de Rendición de Cuentas
 
 **Analista Senior de Transmisión @ CNT EP (_Abr 2005 - Sep 2010_)**
 -  Manejo de proyectos para ampliación de redes de transmisión (SDH, ATM, IP/MPLS).
