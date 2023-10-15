@@ -39,10 +39,10 @@
 -  Seguimiento y reporte de presupuesto del área
 
 **Analista Junior de Transmisión @ CNT EP (_Jun 2004 - Abr 2005_)**
--  Manejo de proyectos para ampliación de redes de transmisión (SDH, ATM, IP/MPLS).
--  Planificación, control y  ejecución del Plan Operativo Anual y Plan de Contrataciones.
--  Análisis y reporte de los indicadores de calidad de las redes de Transmisión.
--  Seguimiento y reporte de presupuesto del área
+-  Monitoreo de alarmas y resolución de problemas en las redes de transmisión
+-  Configuración de clientes en redes ATM y IP/MPLS
+-  Supervisión, mantenimiento, soporte y resolución de problemas en redes ATM y IP/MPLS 
+
 
 **Analista Contact Center @ CNT EP (_Jul 2003 - Jun 2004_)**
 - Soporte técnico telefónico a clientes de internet y transmisión de datos.
