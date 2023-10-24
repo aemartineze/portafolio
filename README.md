@@ -7,22 +7,23 @@
 -  Ingeniera en Telecomunicaciones| Espe - Escuela Politécnica del Ejército  |_Abr 2003_	 		        		
 
 ## Proyectos
-### Trabajo de Fin de Master
+### Python
 [Análisis de las comunidades de Twitter con respecto al 25 de noviembre “Día Internacional de la Eliminación de la Violencia contra la mujer” ](https://openaccess.uoc.edu/handle/10609/148755)
 
-### Análisis de los niveles de NO2 en Madrid
-[Presentación DemoDay
+[Análisis de los niveles de NO2 en Madrid
 ](https://www.youtube.com/live/6Gz9yxC5o6A?si=nHjZMl1waa1q7fps )
 
-### Embarazo infantil y adolescente en el Ecuador
-[Análisis en Tableau
+[Registro de Nacido Vivo - INEC (taller Pandas)](https://github.com/aemartineze/taller_pandas)
+
+### Tableau
+[Embarazo infantil y adolescente en el Ecuado
 ](https://public.tableau.com/app/profile/andrea.martinez6335/viz/EmbarazoinfantilyadolescenteenelEcuador/Nacional2)
 
-### Impacto del Covid en Ecuador
-[Infografía en Flourish](https://public.flourish.studio/story/1550365/)
+### R
+[embarazo adolecente en Sudamérica](https://aemartineze.github.io/cartograma/)
 
-### Cartograma del embarazo adolecente en Sudamérica
-[Análisis de Datos en Lenguaje R](https://aemartineze.github.io/cartograma/)
+### Flourish
+[Impacto del Covid en Ecuador](https://public.flourish.studio/story/1550365/)
 
 ## Experiencia
 **Analista de Control y Seguimiento  @ CNT EP (_Sep 2010 - Presente_)**
