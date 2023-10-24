@@ -16,11 +16,11 @@
 [Registro de Nacido Vivo - INEC (taller Pandas)](https://github.com/aemartineze/taller_pandas)
 
 ### Tableau
-[Embarazo infantil y adolescente en el Ecuado
+[Embarazo infantil y adolescente en el Ecuador
 ](https://public.tableau.com/app/profile/andrea.martinez6335/viz/EmbarazoinfantilyadolescenteenelEcuador/Nacional2)
 
 ### R
-[embarazo adolecente en Sudamérica](https://aemartineze.github.io/cartograma/)
+[Embarazo adolecente en Sudamérica](https://aemartineze.github.io/cartograma/)
 
 ### Flourish
 [Impacto del Covid en Ecuador](https://public.flourish.studio/story/1550365/)
