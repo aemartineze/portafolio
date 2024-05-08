@@ -3,8 +3,8 @@
 #### Conocimientos Técnicos: Python, SQL, Qliksense, Tableau, PowerBI
 
 ## Educación
--  Master en Ciencia de Datos     | Universidad Oberta de Catalunya  |_Feb 2023_								       		
--  Ingeniera en Telecomunicaciones| Espe - Escuela Politécnica del Ejército  |_Abr 2003_	 		        		
+Master en Ciencia de Datos     | Universidad Oberta de Catalunya  |_Feb 2023_								       		
+Ingeniera en Telecomunicaciones| Espe - Escuela Politécnica del Ejército  |_Abr 2003_	 		        		
 
 ## Proyectos
 ### Python
@@ -29,6 +29,7 @@
 
 ## Experiencia
 **Kruger School X**
+
 **Docente de Análisis de Datos (_Nov 2023 - Presente_)**
 -	Impartir formación teórica y práctica en SQL para consulta en bases de datos relacionales
 -	Enseñar programación en Python, utilizando Jupyter, así como sus librerías para la limpieza, transformación, visualización y análisis de datos
@@ -43,6 +44,7 @@
 -	Desarrollar de tableros de análisis de datos en Qliksense 
 
 **CNT EP**
+
 **Analista Senior de Transmisión (_Abr 2005 - Sep 2010_)**
 -  Manejo de proyectos para ampliación de redes de transmisión (SDH, ATM, IP/MPLS)
 -  Planificación, control y  ejecución del Plan Operativo Anual y Plan de Contrataciones
@@ -50,12 +52,14 @@
 -  Seguimiento y reporte de presupuesto del área
 
 **CNT EP**
+
 **Analista Junior de Transmisión (_Jun 2004 - Abr 2005_)**
 -  Monitoreo de alarmas y resolución de problemas en las redes de transmisión
 -  Configuración de clientes en redes ATM y IP/MPLS
 -  Supervisión, mantenimiento, soporte y resolución de problemas en redes ATM y IP/MPLS 
 
 **CNT EP**
+
 **Analista Contact Center (_Jul 2003 - Jun 2004_)**
 - Soporte técnico telefónico a clientes de internet y transmisión de datos
 - Monitoreo de alarmas y resolución de problemas
