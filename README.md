@@ -15,7 +15,7 @@
 
 [Registro de Nacido Vivo - INEC (taller Pandas)](https://github.com/aemartineze/taller_pandas)
 
-[Modelos de Machine Learning](https://github.com/aemartineze/taller_pandas)
+[Modelos de Machine Learning](https://github.com/aemartineze/modelos_ML)
 
 ### Tableau
 [Embarazo infantil y adolescente en el Ecuador
