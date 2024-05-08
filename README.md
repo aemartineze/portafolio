@@ -37,6 +37,7 @@ Ingeniera en Telecomunicaciones| Espe - Escuela Politécnica del Ejército  |_Ab
 -	Guiar y evaluar la implementación de proyectos de análisis de datos con distintas fuentes
 
 **CNT EP**
+
 **Analista de Control y Seguimiento (_Sep 2010 - Presente_)**
 - Desarrollar de proyectos Análisis de Datos para verificar el cumplimiento del Plan Estratégico Empresarial en la perspectiva del negocio y técnica
 -	Desarrollar e implementar Metodologías de Gobierno de la Información
